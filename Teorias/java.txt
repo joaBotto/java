@@ -1,0 +1,22 @@
+¿Qué es Java?
+Java, como plataforma de programación, nació en el año 1995 dentro de los laboratorios de la empresa Sun Microsystem como resultado de una extensa investigación científica y tecnológica. La plataforma Java proporciona un entorno completo para el desarrollo y ejecución de programas, que consta de:
+
+Un lenguaje de programación de alto nivel orientado a objetos;
+Máquina Virtual (Java Virtual Machine o JVM), que garantiza independencia de plataforma, pues el código se ejecuta en la máquina virtual y esa puede ser portada a otras plataformas como Windows o Linux;
+Java Runtime Environment o JRE, que agrega la máquina virtual y algunos recursos para la ejecución de aplicaciones Java;
+Java Development Kit o JDK, que es un conjunto de utilidades que admite el desarrollo de aplicaciones.
+En Java, los programas son escritos en un archivo con la extensión .java, que en un proceso posterior serán compilados para archivos con la extensión .class. Estos contienen los códigos que se ejecutarán en la máquina virtual, los bytecodes.
+
+JVM está disponible para la mayoría de los sistemas operativos del mercado, por lo que podemos ejecutar la misma aplicación Java en Windows, macOS, Linux, Solaris, entre otros. Esta funcionalidad implementa uno de los conceptos que nacieron fuertes con Java: "¡Escribe una vez y ejecuta en cualquier lugar!".
+
+Entorno de ejecucion de JAVA:
+
+------- Java Development Kit 
+
+    ----- Java Runtime Environment     
+
+        --- Java Virtual Machine: Codigo ejecutable java
+
+    ----- Java Runtime Environment
+
+------- Java Development Kit 

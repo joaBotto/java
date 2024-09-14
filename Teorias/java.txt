@@ -20,3 +20,9 @@ Entorno de ejecucion de JAVA:
     ----- Java Runtime Environment
 
 ------- Java Development Kit 
+
+Tecnología Java:
+La plataforma Java está estructurada en un portafolio de productos para el desarrollo y ejecución de aplicaciones, ideando que un mismo programa pueda funcionar en diferentes sistemas operativos y dispositivos. Actualmente la plataforma se divide en dos grandes áreas:
+
+Java Standard Edition o JavaSE: componente estándar de Java que proporciona un entorno para el desarrollo de aplicaciones pequeñas y medianas, además de un conjunto de APIs base de plataforma y JVM estándar;
+Java Enterprise Edition o JavaEE: componente basado en JavaSE, se centra en el desarrollo de aplicaciones empresariales multicapa de gran tamaño y proporciona servicios adicionales, herramientas y APIs para simplificar la creación de aplicaciones complejas.
